@@ -8,7 +8,7 @@ Hi there 👋
 
 We are developing the most elegant application that will allow you to enjoy the content of the GuiseWare Team and its affiliated studios and communities. You will be able to play games from different developers, listen to music, watch various videos and even ambitious projects and dubbing created in the GuiseWare Team, and much more. This is not the whole range of possibilities. There are many more of them than you think.
 
-# 📝 Note!
+### 📝 Note!
 
 <br>
 
@@ -16,7 +16,7 @@ Both regular release versions, beta versions, and even development versions will
 
 <br>
 
-# 📌 When is the release date?
+### 📌 When is the release date?
 
 <br>
 
